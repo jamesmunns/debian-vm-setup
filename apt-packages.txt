@@ -1,0 +1,8 @@
+linux-headers-$(uname -r)
+git
+python
+python-dev
+python-pip
+htop
+tree
+

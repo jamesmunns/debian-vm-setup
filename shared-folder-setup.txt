@@ -1,0 +1,9 @@
+mount -t iso9660 /dec/sr0 /media/cdrom
+
+# install additions, reboot
+
+# in /etc/rc.local
+ln -s /media/sf_<sharename>/ /host/
+
+# as su
+adduser <user> vboxsf
