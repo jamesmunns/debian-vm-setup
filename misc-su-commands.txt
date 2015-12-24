@@ -1,2 +1,6 @@
 pip install virtualenv
 
+# Install rust
+curl -sSf https://static.rust-lang.org/rustup.sh > rust.sh
+chmod +x ./rust.sh
+./rust.sh --disable-sudo
