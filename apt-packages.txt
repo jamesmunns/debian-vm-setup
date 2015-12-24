@@ -6,3 +6,5 @@ python-pip
 htop
 tree
 clang
+wget
+curl
