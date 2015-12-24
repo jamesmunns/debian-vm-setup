@@ -8,3 +8,4 @@ tree
 clang
 wget
 curl
+cmake
