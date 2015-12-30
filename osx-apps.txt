@@ -6,3 +6,4 @@ Tower
 BeyondCompare
 SublimeText
 XCode
+Homebrew
