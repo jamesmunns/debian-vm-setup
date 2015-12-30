@@ -1,0 +1,8 @@
+# Oops, not debian related
+Spectacle
+RDM
+VirtualBox
+Tower
+BeyondCompare
+SublimeText
+XCode
